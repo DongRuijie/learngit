@@ -1,2 +1,3 @@
 This is a temp file in working area.
 Modified by another guy.
+This is a new line added by B.
