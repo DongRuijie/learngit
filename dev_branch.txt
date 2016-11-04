@@ -2,3 +2,4 @@ For branch test.
 This is the changes on master.
 New changes on dev branch.
 Test for branch management.
+Sencond test for branch merge.
